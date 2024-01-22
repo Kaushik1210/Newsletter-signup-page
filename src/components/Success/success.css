@@ -1,0 +1,26 @@
+.success_content{
+    background-color:var(--White);    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 220px;
+    padding: 30px;
+    border-radius: 20px;
+    align-items: center;
+    box-shadow: 5px 5px 50px rgba(0, 0, 0, 0.661);
+
+    >img{
+        width: 40px;
+    }
+    >h1{
+        line-height: 1;
+        margin-top: 10px;
+    }
+    >p{
+        font-size: 12px;
+        margin-top: 10px;
+        font-weight: 400;
+    }
+
+}
