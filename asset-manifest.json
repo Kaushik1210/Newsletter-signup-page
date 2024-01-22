@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Newsletter-signup-page/static/css/main.4fe71cb7.css",
+    "main.css": "/Newsletter-signup-page/static/css/main.86165774.css",
     "main.js": "/Newsletter-signup-page/static/js/main.f7b7622f.js",
     "static/media/illustrationsignupmobile.svg": "/Newsletter-signup-page/static/media/illustrationsignupmobile.3f6f1c6d3e48045cb31a0cae1ae11999.svg",
     "static/media/illustrationsignupdesktop.svg": "/Newsletter-signup-page/static/media/illustrationsignupdesktop.ce2024babf0bc98a8862252535b544c9.svg",
     "index.html": "/Newsletter-signup-page/index.html",
     "static/media/icon-list.svg": "/Newsletter-signup-page/static/media/icon-list.5e317c030bb9f11a3343.svg",
     "static/media/iconlist.svg": "/Newsletter-signup-page/static/media/iconlist.5e317c030bb9f11a33433484a2c590e1.svg",
-    "main.4fe71cb7.css.map": "/Newsletter-signup-page/static/css/main.4fe71cb7.css.map",
+    "main.86165774.css.map": "/Newsletter-signup-page/static/css/main.86165774.css.map",
     "main.f7b7622f.js.map": "/Newsletter-signup-page/static/js/main.f7b7622f.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fe71cb7.css",
+    "static/css/main.86165774.css",
     "static/js/main.f7b7622f.js"
   ]
 }
